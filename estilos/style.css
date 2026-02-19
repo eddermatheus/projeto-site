@@ -6,7 +6,11 @@ body {
     background-color: rgb(152, 157, 218);
 }
 main {
+<<<<<<< Updated upstream
     background-color: rgb(218, 205, 205);
+=======
+    background-color: rgb(204, 178, 178);
+>>>>>>> Stashed changes
     width: 588px;
     margin: auto;
     pading: 10px;
